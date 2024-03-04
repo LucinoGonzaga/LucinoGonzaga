@@ -12,7 +12,7 @@ Hello, my name is Lucino, live in Brasília and I am passionate about technology
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=FFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=FFF)
 
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=FFF) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=FFF) ![Debian](https://img.shields.io/badge/-Debian-333?style=flat&logo=debian) ![VSCode](https://img.shields.io/badge/IDE-VSCode-333.svg)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=FFF) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=FFF) ![Debian](https://img.shields.io/badge/-Debian-333?style=flat&logo=debian) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=FFF)
 
 ## GitHub Stats 👨‍💻
 
