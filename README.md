@@ -1,8 +1,6 @@
-## Presentation 👋
+## About Me: 👋
 
-Hello, my name is Lucino, live in Brasília and I am passionate about technology.
-
-"The true wise man is an eternal learner" Leonardo da Vinci
+🎓 Graduated in Systems Analysis and Development <br />👨‍💻 Working with technology since 2010 <br />📖 Learning about Blockchain and Smart Contracts <br /> 😍 I’m passionate about technology
 
 ## Skills 🚀
 
@@ -12,11 +10,14 @@ Hello, my name is Lucino, live in Brasília and I am passionate about technology
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=FFF) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql&logoColor=FFF)
 
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=FFF) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=FFF) ![Debian](https://img.shields.io/badge/-Debian-333?style=flat&logo=debian) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=FFF)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=FFF) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=FFF) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FFF) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=FFF) ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman&logoColor=FFF)
 
-## GitHub Stats 👨‍💻
+## GitHub Analytics 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=radical)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=radical)
+
 
 ## Let's connect? 🤝
 
