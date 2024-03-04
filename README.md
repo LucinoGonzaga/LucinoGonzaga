@@ -14,9 +14,9 @@
 
 ## GitHub Analytics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=dracula)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=merko)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=dracula)
 
 
 ## Let's connect?
