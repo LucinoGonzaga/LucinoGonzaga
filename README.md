@@ -1,8 +1,8 @@
-## About Me: 👋
+## About Me:
 
 🎓 Graduated in Systems Analysis and Development <br />👨‍💻 Working with technology since 2010 <br />📖 Learning about Blockchain and Smart Contracts <br /> 😍 I’m passionate about technology
 
-## Skills 🚀
+## Skills:
 
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php&logoColor=FFF) ![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony&logoColor=FFF) ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel&logoColor=FFF)
 
@@ -12,13 +12,13 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker&logoColor=FFF) ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git&logoColor=FFF) ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=FFF) ![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code&logoColor=FFF) ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman&logoColor=FFF)
 
-## GitHub Analytics 📊
+## GitHub Analytics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=merko)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=radical)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=merko)
 
 
-## Let's connect? 🤝
+## Let's connect?
 
 <a href="https://www.linkedin.com/in/lucino-gonzaga" target="_blank"><img src="https://img.shields.io/badge/-Lucino Gonzaga-333?style=flat&logo=linkedin&logoColor=FFF)"/></a>
