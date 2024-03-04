@@ -1,6 +1,9 @@
 ## About Me
 
-🎓 Graduated in Systems Analysis and Development <br />👨‍💻 Working with technology since 2010 <br />📖 Learning about Blockchain and Smart Contracts <br /> 😍 I’m passionate about technology
+- Graduated in Systems Analysis and Development 
+- Working with technology since 2009
+- Learning about Blockchain and Smart Contracts
+- I’m passionate about technology
 
 ## Skills
 
@@ -14,9 +17,9 @@
 
 ## GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucinoGonzaga&hide_border=false&show_icons=true&bg_color=333333&text_color=FFFFFF&theme=dark)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&theme=merko)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LucinoGonzaga&hide_border=false&show_icons=true&background=333333&text_color=FFFFFF&exclude_days=Fri%2CSat&theme=dark)
 
 
 ## Let's connect?
